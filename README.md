@@ -16,11 +16,12 @@
 
 <p align="center">
   <a href="https://www.python.org/"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.r-project.org/"><img alt="R" width="55px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mathworks.com/"><img alt="Matlab" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://julialang.org/"><img alt="Julia" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/"><img alt="Bash" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/Markdown#:~:text=Markdown%20is%20a%20lightweight%20markup,using%20a%20plain%20text%20editor."><img alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /></a>
-  <a href="https://www.r-project.org/"><img alt="Terminal" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/"><img alt="Terminal" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://julialang.org/"><img alt="Terminal" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
