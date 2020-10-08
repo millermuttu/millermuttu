@@ -26,12 +26,15 @@
 <p align="center">
   <a href="https://pytorch.org/"><img alt="PyTorch" width="150px" src="https://www.edureka.co/blog/wp-content/uploads/2018/10/Pytorch_logo.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/"><img alt="Tensorflow" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.opencv.org/"><img alt="Tensorflow" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.opencv.org/"><img alt="Tensorflow" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/"><img alt="Django" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/"><img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
   <a href="https://www.linux.org/"><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/"><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/"><img alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://jupyter.org/"><img alt="Jupyter Notebook" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /></a>&nbsp;&nbsp;&nbsp;
