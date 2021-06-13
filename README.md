@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I am an Artificial Intelligence Engineer who likes to contribute in computer vision, data science aspects.<br />
+    I am an AI/ML Engineer who likes to contribute in computer vision, data science aspects.<br />
   </samp>
   <br/><br/>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300">
