@@ -68,6 +68,17 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   </a>
 </p>
 
+This is what i am currently busy with:
+
+- 🔭 I’m currently working on : My own startup
+- 🌱 I’m currently learning : MLops, Web development.
+- 👯 I’m looking to collaborate on : Machine learning projects and Deep learning Projects
+- 🤔 I’m looking for help with : Machine learning projects and Deep learning Projects
+- 💬 Ask me about : startup journey, travel, football
+- 📫 How to reach me: mallikarjunvsaj@gmail.com
+- 😄 Pronouns: Mallik
+- ⚡ Fun fact: i like to hangout with people and i dont have people😄. same with my travle story, l like to roam more countries and havent got a job abroad😄
+
 <!--
 **shan18/shan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
