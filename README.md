@@ -45,13 +45,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 
-
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=millermuttu&show_icons=true&count_private=true&hide_border=true&hide_title=true" />
-</p>
-
-
 <h3 align="center">Want to connect?</h3>
 <p align="center">
   <a href="https://millermuttu.github.io/">
