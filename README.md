@@ -19,17 +19,32 @@
 - ⚡ Fun fact: I like football, and my heart stays with FC Bayern Munich. Munich is my fav place in the world.
 
 <h3 align="center">Tech Stack</h3>
-<p align="center">
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=py,go,cpp,rust,ts,pytorch,tensorflow,sklearn,opencv,fastapi,react,vite,tauri,bash,vscode,docker,kubernetes,terraform,ansible,aws,azure,mongodb,sqlite,grafana,prometheus" />
+
+<p align="center"><b>Languages</b><br /><br />
+  <img alt="Languages" src="https://skillicons.dev/icons?i=py,go,cpp,rust,ts,bash" />
 </p>
-<p align="center">
+
+<p align="center"><b>ML &amp; LLM</b><br /><br />
+  <img alt="ML frameworks" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /><br /><br />
   <img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white" />
   <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
-  <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-30A2FF?logo=vllm&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white" />
-  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-30A2FF?logo=vllm&logoColor=white" />
+</p>
+
+<p align="center"><b>Apps &amp; APIs</b><br /><br />
+  <img alt="App frameworks" src="https://skillicons.dev/icons?i=fastapi,react,vite,tauri,vscode" /><br /><br />
   <img alt="PyQt" src="https://img.shields.io/badge/PyQt-41CD52?logo=qt&logoColor=white" />
+</p>
+
+<p align="center"><b>Cloud &amp; DevOps</b><br /><br />
+  <img alt="Cloud and DevOps" src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,azure" />
+</p>
+
+<p align="center"><b>Data &amp; Monitoring</b><br /><br />
+  <img alt="Data and monitoring" src="https://skillicons.dev/icons?i=mongodb,sqlite,grafana,prometheus" /><br /><br />
+  <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white" />
 </p>
 
 <br />
