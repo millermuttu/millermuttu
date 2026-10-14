@@ -6,7 +6,7 @@
     Now building with Agentic AI and Generative AI.<br />
   </samp>
   <br/><br/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="150">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300">
   <br/>
 </p>
 
