@@ -1,52 +1,42 @@
-<h3 align="center">Hello, Mallikarjun Sajjan here👋 :sunglasses:</h3>
+<h3 align="center">Hello, Mallikarjun Sajjan here 👋</h3>
 
 <p align="center">
   <samp>
-    ML / MLOps Engineer building and shipping production machine learning systems.<br />
-    Currently exploring Agentic AI and Generative AI development.<br />
+    ML / MLOps Engineer shipping production ML systems end to end.<br />
+    Now building with Agentic AI and Generative AI.<br />
   </samp>
   <br/><br/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="150">
   <br/>
 </p>
 
+- 🔭 I’m currently working on: My own startup, building ML systems end to end
+- 🌱 I’m currently learning: Agentic AI, LLM agents and Generative AI development
+- 👯 I’m looking to collaborate on: MLOps, Agentic AI and Gen AI projects
+- 💬 Ask me about: MLOps, startup journey, travel, football
+- 📫 How to reach me: mallikarjunvsaj@gmail.com
+- 😄 Call me: Mallik
+- ⚡ Fun fact: I like football, and my heart stays with FC Bayern Munich. Munich is my fav place in the world.
 
 <h3 align="center">Tech Stack</h3>
-<br />
-
 <p align="center">
-  <a href="https://www.python.org/"><img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.r-project.org/"><img alt="R" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/"><img alt="Matlab" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://julialang.org/"><img alt="Julia" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.markdownguide.org/"><img alt="Markdown" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /></a>
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=py,go,cpp,rust,ts,pytorch,tensorflow,sklearn,opencv,fastapi,react,vite,tauri,bash,vscode,docker,kubernetes,terraform,ansible,aws,azure,mongodb,sqlite,grafana,prometheus" />
 </p>
-
 <p align="center">
-  <a href="https://pytorch.org/"><img alt="PyTorch" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/"><img alt="TensorFlow" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://opencv.org/"><img alt="OpenCV" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/"><img alt="Flask" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/"><img alt="Django" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.gnu.org/software/bash/"><img alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/"><img alt="Linux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://ubuntu.com/"><img alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://jupyter.org/"><img alt="Jupyter Notebook" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.vim.org/"><img alt="Vim" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.latex-project.org/"><img alt="LaTeX" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" /></a>
+  <img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white" />
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
+  <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-30A2FF?logo=vllm&logoColor=white" />
+  <img alt="PyQt" src="https://img.shields.io/badge/PyQt-41CD52?logo=qt&logoColor=white" />
 </p>
 
 <br />
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=millermuttu&show_icons=true&count_private=true&hide_border=true" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=millermuttu&show_icons=true&hide_border=true" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millermuttu&layout=compact&hide_border=true" />
 </p>
 <p align="center">
@@ -57,27 +47,8 @@
 
 <h3 align="center">Want to connect?</h3>
 <p align="center">
-  <a href="https://millermuttu.github.io/">
-    <img align="center" alt="Portfolio" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/mallikarjun-v-sajjan-0465a6103">
-    <img align="center" alt="Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>&nbsp;
-  <a href="https://t.me/Mullermuttu">
-    <img align="center" alt="Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/flying_muttu/">
-    <img align="center" alt="Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
+  <a href="https://millermuttu.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mallikarjun-v-sajjan-0465a6103"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Mullermuttu"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/flying_muttu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
 </p>
-
-This is what I am currently busy with:
-
-- 🔭 I’m currently working on: My own startup, building ML systems end to end
-- 🌱 I’m currently learning: Agentic AI, LLM agents and Generative AI development
-- 👯 I’m looking to collaborate on: MLOps, Agentic AI and Gen AI projects
-- 🤔 I’m looking for help with: Agentic AI and Gen AI projects
-- 💬 Ask me about: MLOps, startup journey, travel, football
-- 📫 How to reach me: mallikarjunvsaj@gmail.com
-- 😄 Call me: Mallik
-- ⚡ Fun fact: I like football, and my heart stays with FC Bayern Munich. Munich is my fav place in the world.
