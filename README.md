@@ -51,10 +51,6 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=millermuttu&show_icons=true&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millermuttu&layout=compact&hide_border=true" />
-</p>
-<p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=millermuttu&hide_border=true" />
 </p>
 
